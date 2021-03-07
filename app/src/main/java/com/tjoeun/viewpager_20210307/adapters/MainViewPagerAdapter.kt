@@ -19,4 +19,5 @@ class MainViewPagerAdapter(fm : FragmentManager) : FragmentPagerAdapter(fm) {
             else -> DescFragment()
         }
     }
+
 }
